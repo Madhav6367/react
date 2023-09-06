@@ -1,0 +1,15 @@
+.background{
+    background-image: url("https://wallpapercave.com/wp/yRzA3uZ.jpg");
+    height: 60vh;
+    width: 80vh;
+    color: aliceblue;
+    text-align: center;
+}
+.Edit{
+    background-image: url("https://anotheraurora.files.wordpress.com/2015/03/10984544_932244713498887_1007258729490378867_o.jpg?w=2000&h=1366&crop=1");
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
